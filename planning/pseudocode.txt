@@ -1,0 +1,17 @@
+MVP
+
+Phase 1: Player-scored Version
+
+- Build out a 3x3 grid with clickable squares
+- Player1 clicks a div
+    - If the div is unmarked
+        - Mark the div with player1's token
+        - Change the message to indicate that it's player2's turn
+    - If the div is marked
+        - Return nothing
+- If the reset button is clicked,
+    - Unmark all divs
+
+
+Phase 2: Computer-scored Version
+    - Add the current div (with the value set to Player 1's token) to a gameProgress object

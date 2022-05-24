@@ -1,0 +1,13 @@
+# MVP
+As a user...
+I want to see the 3x3 grid 
+I want to see what my token is
+I want to see what my opponent does
+I want to see my move on the grid
+I want to see when I win or lose
+I want to press a reset button to play the game again
+I want to know whose turn it is
+
+# Stretch Goals
+As a user...
+I want to be able to choose my token
