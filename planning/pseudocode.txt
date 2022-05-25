@@ -3,14 +3,14 @@ MVP
 Phase 1: Player-scored Version
 
 - Build out a 3x3 grid with clickable squares
-- Player1 clicks a div
+- Player X clicks a div
     - If the div is unmarked
-        - Mark the div with player1's token
-        - Change the message to indicate that it's player2's turn
+        - Mark the div with Player X's token
+        - Change the message to indicate that it's Player O's turn
     - If the div is marked
         - Return nothing
 - If the reset button is clicked,
-    - Unmark all divs
+    - Reload the page
 
 
 Phase 2: Computer-scored Version
